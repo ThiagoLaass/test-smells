@@ -1,4 +1,4 @@
-# Relatório — Detecção e Refatoração de Test Smells com ESLint (Jest)
+# Detecção e Refatoração de Test Smells com ESLint (Jest)
 
 **Disciplina:** Testes de Software
 
